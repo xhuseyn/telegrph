@@ -1,0 +1,1 @@
+print("all messages are in history as long term storage")
